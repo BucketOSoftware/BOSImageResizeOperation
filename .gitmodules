@@ -1,0 +1,3 @@
+[submodule "Tests/exif-orientation-examples"]
+	path = Tests/exif-orientation-examples
+	url = git://github.com/recurser/exif-orientation-examples.git
