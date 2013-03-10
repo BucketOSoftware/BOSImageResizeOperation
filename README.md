@@ -105,7 +105,7 @@ We're not in the CocoaPods repository yet, but you can install the latest versio
 
 ## Brought to you by
 
-BOSImageResizeOperation was written by Alex Michaud (@zole), based on techniques cobbled together from all over the Internet and Stack Overflow. Follow or say hi on Twitter: [@bucketosoftware](https://twitter.com/bucketosoftware)
+BOSImageResizeOperation was written by [Alex Michaud](http://github.com/zole), based on techniques cobbled together from all over the Internet and Stack Overflow. Contributions are welcome and will help create a utopia where all iOS apps resize images the right way, no matter what edge cases are uncovered. Follow or say hi on Twitter: [@bucketosoftware](https://twitter.com/bucketosoftware)
 
 ## License
 
