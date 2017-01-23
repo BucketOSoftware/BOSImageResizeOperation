@@ -166,7 +166,7 @@ static inline CGFloat degrees2radians(CGFloat degrees) {
             break;
         default:
             // TODO: set the error and/or support other orientations
-            NSLog(@"Orientation not supported: %d", self.imageToResize.imageOrientation);
+            NSLog(@"Orientation not supported: %ld", (long)self.imageToResize.imageOrientation);
             CGContextRelease(bitmap);
             return;
     }
